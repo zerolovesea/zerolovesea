@@ -8,7 +8,7 @@ I'm an Machine Learning engineer enthusiastic about NLP and Chatbot.
 
 #### About Me
 * 010/2023 - now - Machine Learning Engineer, [Leansight Tech](https://www.leansight.cn/)
-* 06/2023 - 10/2023 - (Intern), [XiYuan Tech]
+* 06/2023 - 10/2023 - (Intern), XiYuan Tech
 * 09/2022 - 9/2023 - Master in Big Data and Data Science, [University Complutense of Madrid](https://ucm.es)
 
 #### Profiles
