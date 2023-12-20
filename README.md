@@ -1,4 +1,4 @@
-<h2 align="center"># Hi there 👋, it's me, Yang Zhou!</h2>
+<h2 align="center"> Hi there 👋, it's me, Yang Zhou!</h2>
 
 I'm an Machine Learning engineer enthusiastic about NLP and Chatbot.
 
