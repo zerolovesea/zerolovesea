@@ -1,5 +1,7 @@
 <h2 align="center"> Hi there 👋, it's me, Yang Zhou!</h2>
 
+![Yang Zhou's Profile View](https://komarev.com/ghpvc/?username=zerolovesea&color=blue)
+
 I'm an Machine Learning engineer enthusiastic about NLP and Chatbot.
 
 [![Yang Zhou's GitHub stats](https://github-readme-stats.vercel.app/api?username=zerolovesea&count_private=true&show_icons=true&theme=transparent)](https://github.com/zerolovesea/github-readme-stats)
