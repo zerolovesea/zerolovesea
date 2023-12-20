@@ -1,6 +1,6 @@
 <h2 align="center"> Hi there 👋, it's me, Yang Zhou!</h2>
 
-![Yang Zhou's Profile View](https://komarev.com/ghpvc/?username=zerolovesea&color=blue)
+[![Yang Zhou's Profile View](https://komarev.com/ghpvc/?username=zerolovesea&color=blue)](https://github.com/zerolovesea/github-readme-stats)
 
 I'm an Machine Learning engineer enthusiastic about NLP and Chatbot.
 
