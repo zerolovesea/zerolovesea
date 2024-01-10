@@ -26,4 +26,4 @@ I'm an Machine Learning engineer enthusiastic about NLP and Chatbot.
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zerolovesea&repo=Kaggle_Competitions)](https://github.com/zerolovesea/Kaggle_Competitions)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zerolovesea&repo=QA_systems)](https://github.com/zerolovesea/QA_system)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zerolovesea&repo=QA_system)](https://github.com/zerolovesea/QA_system)
