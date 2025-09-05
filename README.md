@@ -9,7 +9,7 @@ I'm an Machine Learning engineer enthusiastic about NLP and Chatbot.
 [![Yang Zhou's GitHub stats](https://github-readme-stats.vercel.app/api?username=zerolovesea&count_private=true&show_icons=true&theme=transparent)](https://github.com/PanQiWei/github-readme-stats)
 
 #### About Me
-* 07/2024 - now - Data Scientist, [iFlyTek](https://www.iflytek.com/en/)
+* 07/2024 - now - Machine Learning Engineer, [iFlyTek](https://www.iflytek.com/en/)
 * 10/2023 - 07/2024 - Machine Learning Engineer, [Leansight Tech](https://www.leansight.cn/)
 * 06/2023 - 10/2023 - (Intern) Data Scientist, XiYuan Tech
 * 09/2022 - 9/2023 - Master in Big Data and Data Science, [University Complutense of Madrid](https://ucm.es)
