@@ -11,8 +11,6 @@ I'm an Machine Learning engineer enthusiastic about NLP and Chatbot.
 #### About Me
 * 07/2024 - now - Machine Learning Engineer, [iFlyTek](https://www.iflytek.com/en/)
 * 10/2023 - 07/2024 - Machine Learning Engineer, [Leansight Tech](https://www.leansight.cn/)
-* 06/2023 - 10/2023 - (Intern) Data Scientist, XiYuan Tech
-* 09/2022 - 9/2023 - Master in Big Data and Data Science, [University Complutense of Madrid](https://ucm.es)
 
 #### Profiles
 
