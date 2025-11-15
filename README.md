@@ -23,8 +23,3 @@ I'm an Machine Learning engineer enthusiastic about NLP and Chatbot.
 * PyTorch, scikit-learn
 * Leadership
 
-#### Top Repositories
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zerolovesea&repo=RecLib)](https://github.com/zerolovesea/RecLib)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zerolovesea&repo=Kaggle_Competitions)](https://github.com/zerolovesea/Kaggle_Competitions)
