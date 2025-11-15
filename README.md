@@ -15,7 +15,7 @@ I'm an Machine Learning engineer enthusiastic about NLP and Chatbot.
 #### Profiles
 
 * [LinkedIn](https://www.linkedin.com/in/zyaztec/)
-* [Kaggle](https://www.kaggle.com/yaaangzhou): Notebook Master
+* [Kaggle](https://www.kaggle.com/yaaangzhou)
 
 #### Interests
 
