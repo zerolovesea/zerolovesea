@@ -6,8 +6,6 @@ I'm an Machine Learning engineer enthusiastic about Recommendation system/Rankin
 
 ![Snake animation](https://github.com/zerolovesea/zerolovesea/blob/output/github-contribution-grid-snake.svg)
 
-![Yang Zhou's GitHub stats](https://github-readme-stats.vercel.app/api?username=zerolovesea&count_private=true&show_icons=true&theme=transparent)]
-
 #### About Me
 * 07/2024 - now - Machine Learning Engineer, [iFlyTek](https://www.iflytek.com/en/)
 * 10/2023 - 07/2024 - Machine Learning Engineer, [Leansight Tech](https://www.leansight.cn/)
