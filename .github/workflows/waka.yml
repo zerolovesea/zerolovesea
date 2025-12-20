@@ -31,3 +31,5 @@ jobs:
           SHOW_EDITORS: "True"
           SHOW_OS: "True"
           SHOW_TIMEZONE: "True"
+
+          DEBUG_LOGGING: "True"
