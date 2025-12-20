@@ -2,7 +2,6 @@ name: WakaTime Stats
 
 on:
   schedule:
-    # 每天 00:30 UTC 跑一次（英国时间冬令时=00:30；夏令时会+1小时）
     - cron: "30 0 * * *"
   workflow_dispatch:
 
@@ -22,3 +21,6 @@ jobs:
           SHOW_TOTAL: "True"
           SHOW_LANGUAGE: "True"
           LANG_COUNT: 8
+          SHOW_PROFILE_VIEWS: "False"
+          SHOW_GITHUB_STATS: "False"
+          SHOW_LINES_OF_CODE: "False"
