@@ -18,9 +18,10 @@ jobs:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
           SECTION_NAME: waka
           SHOW_TIME: "True"
-          SHOW_TOTAL: "True"
           SHOW_LANGUAGE: "True"
+          SHOW_LINES_OF_CODE: "True"
           LANG_COUNT: 8
           SHOW_PROFILE_VIEWS: "False"
           SHOW_GITHUB_STATS: "False"
-          SHOW_LINES_OF_CODE: "False"
+          SHOW_SHORT_INFO: "False"
+
