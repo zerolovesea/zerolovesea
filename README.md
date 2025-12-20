@@ -2,6 +2,23 @@
 
 [![Yang Zhou's Profile View](https://komarev.com/ghpvc/?username=zerolovesea&color=blue)](https://github.com/zerolovesea/github-readme-stats)
 
+I'm an Machine Learning engineer enthusiastic about Recommendation system/Ranking models.
+
+#### About Me
+* 07/2024 - now - Machine Learning Engineer, [iFlyTek](https://www.iflytek.com/en/)
+* 10/2023 - 07/2024 - Machine Learning Engineer, [Leansight Tech](https://www.leansight.cn/)
+
+#### Profiles
+
+* [LinkedIn](https://www.linkedin.com/in/zyaztec/)
+* [Kaggle](https://www.kaggle.com/yaaangzhou)
+
+#### Interests
+
+* Rec Sys & NLP & Representation Learning
+* PyTorch & scikit-learn
+* Streamlit
+
 <!--START_SECTION:waka-->
 **I'm an Early 🐤** 
 
@@ -57,22 +74,4 @@ HTML                     1 repo              ██░░░░░░░░░�
  Last Updated on 20/12/2025 10:33:55 UTC
 <!--END_SECTION:waka-->
 
-I'm an Machine Learning engineer enthusiastic about Recommendation system/Ranking models.
-
-![Snake animation](https://github.com/zerolovesea/zerolovesea/blob/output/github-contribution-grid-snake.svg)
-
-#### About Me
-* 07/2024 - now - Machine Learning Engineer, [iFlyTek](https://www.iflytek.com/en/)
-* 10/2023 - 07/2024 - Machine Learning Engineer, [Leansight Tech](https://www.leansight.cn/)
-
-#### Profiles
-
-* [LinkedIn](https://www.linkedin.com/in/zyaztec/)
-* [Kaggle](https://www.kaggle.com/yaaangzhou)
-
-#### Interests
-
-* Deep Learning, NLP
-* PyTorch, scikit-learn
-* Leadership
 
