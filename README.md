@@ -20,7 +20,7 @@ I'm an Machine Learning engineer enthusiastic about Recommendation system/Rankin
 * Streamlit
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-169%20hrs%2049%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-27%20hrs%2024%20mins-blue)
 
 **I'm an Early 🐤** 
 
@@ -49,16 +49,18 @@ Sunday                   35 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   2 hrs 42 mins       ████████████████████████░   96.85 % 
+Markdown                 5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.14 % 
+TOML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  2 hrs 47 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+NextRec                  2 hrs 47 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      2 hrs 47 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -73,7 +75,7 @@ HTML                     1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 20/12/2025 14:22:52 UTC
+ Last Updated on 21/12/2025 00:16:10 UTC
 <!--END_SECTION:waka-->
 
 
