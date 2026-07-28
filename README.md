@@ -20,7 +20,9 @@ I'm an Machine Learning engineer enthusiastic about Recommendation system/Rankin
 * Streamlit
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-761%20hrs%2012%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-734%20hrs%2022%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-242%20hrs%2022%20mins-blue?style=flat)
 
 **I'm an Early 🐤** 
 
@@ -49,25 +51,49 @@ Sunday                   146 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 6 hrs 10 mins       ██████░░░░░░░░░░░░░░░░░░░   24.36 % 
-Rust                     4 hrs 19 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.05 % 
-TypeScript               3 hrs 40 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.52 % 
-Python                   3 hrs 10 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.53 % 
-Astro                    2 hrs 6 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.30 % 
+Markdown                 6 hrs 12 mins       ██████░░░░░░░░░░░░░░░░░░░   23.13 % 
+Python                   5 hrs 4 mins        █████░░░░░░░░░░░░░░░░░░░░   18.91 % 
+Rust                     4 hrs 19 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.12 % 
+TypeScript               3 hrs 31 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.12 % 
+JSON                     1 hr 42 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.36 % 
 
 🔥 Editors: 
-VS Code                  21 hrs 15 mins      █████████████████████░░░░   83.80 % 
-Claude Code              4 hrs 6 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.20 % 
+VS Code                  22 hrs 42 mins      █████████████████████░░░░   84.68 % 
+Claude Code              4 hrs 6 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.32 % 
 
 🐱‍💻 Projects: 
-zerolovesea.top-2.0      11 hrs 10 mins      ███████████░░░░░░░░░░░░░░   44.07 % 
-Brevia                   9 hrs 42 mins       ██████████░░░░░░░░░░░░░░░   38.25 % 
-投资研究                     2 hrs 34 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.13 % 
-s                        58 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.87 % 
-ai_dash_v2               9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 % 
+Brevia                   11 hrs 3 mins       ██████████░░░░░░░░░░░░░░░   41.22 % 
+zerolovesea.top-2.0      9 hrs 51 mins       █████████░░░░░░░░░░░░░░░░   36.75 % 
+投资研究                     2 hrs 55 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.91 % 
+s                        1 hr 21 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.05 % 
+RumiiMatch               34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.17 % 
 
 💻 Operating System: 
-Mac                      25 hrs 21 mins      █████████████████████████   100.00 % 
+Mac                      26 hrs 48 mins      █████████████████████████   100.00 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 25 hrs 39 mins (95.67%)
+
+✍️ 22,327 lines written by AI, 120 lines written by hand (99.47% AI-written)
+
+🔤 339,844,245 Input Tokens, 1,272,939 Output Tokens
+
+💵 $1727.97 Estimated AI Cost This Week
+
+🧠 57 AI Sessions, 410 AI Prompts
+
+Opus                     12,466 lines        ██████████████░░░░░░░░░░░   54.63 % 
+GPT                      10,352 lines        ███████████░░░░░░░░░░░░░░   45.37 % 
+Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 99.47% of written lines came from AI
+📚 Verbose Prompter — average 1,967 characters per prompt
+🔁 Iterative Prompter — average 7 prompts per session
+🚀 High AI Trust — 0.72% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -83,7 +109,7 @@ SCSS                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 27/07/2026 01:05:48 UTC
+ Last Updated on 28/07/2026 01:00:57 UTC
 <!--END_SECTION:waka-->
 
 
