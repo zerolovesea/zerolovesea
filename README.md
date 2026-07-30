@@ -20,24 +20,28 @@ I'm an Machine Learning engineer enthusiastic about Recommendation system/Rankin
 * Streamlit
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-738%20hrs%2053%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-246%20hrs%205%20mins-blue?style=flat)
+
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                280 commits         ███████░░░░░░░░░░░░░░░░░░   26.44 % 
-🌆 Daytime                355 commits         ████████░░░░░░░░░░░░░░░░░   33.52 % 
-🌃 Evening                342 commits         ████████░░░░░░░░░░░░░░░░░   32.29 % 
-🌙 Night                  82 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.74 % 
+🌞 Morning                279 commits         ███████░░░░░░░░░░░░░░░░░░   26.42 % 
+🌆 Daytime                355 commits         ████████░░░░░░░░░░░░░░░░░   33.62 % 
+🌃 Evening                340 commits         ████████░░░░░░░░░░░░░░░░░   32.20 % 
+🌙 Night                  82 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.77 % 
 ```
 📅 **I'm Most Productive on Saturday** 
 
 ```text
-Monday                   165 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.58 % 
-Tuesday                  156 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.73 % 
-Wednesday                137 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.94 % 
-Thursday                 133 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.56 % 
-Friday                   124 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.71 % 
-Saturday                 198 commits         █████░░░░░░░░░░░░░░░░░░░░   18.70 % 
-Sunday                   146 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.79 % 
+Monday                   165 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.62 % 
+Tuesday                  156 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.77 % 
+Wednesday                135 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.78 % 
+Thursday                 132 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
+Friday                   124 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.74 % 
+Saturday                 198 commits         █████░░░░░░░░░░░░░░░░░░░░   18.75 % 
+Sunday                   146 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.83 % 
 ```
 
 
@@ -47,65 +51,65 @@ Sunday                   146 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 6 hrs 29 mins       ███████░░░░░░░░░░░░░░░░░░   26.23 % 
-Python                   4 hrs 43 mins       █████░░░░░░░░░░░░░░░░░░░░   19.08 % 
-Rust                     4 hrs 17 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.34 % 
-TypeScript               2 hrs 36 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.55 % 
-JavaScript               1 hr 31 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.17 % 
+Markdown                 7 hrs 17 mins       ████████░░░░░░░░░░░░░░░░░   30.18 % 
+Python                   4 hrs 43 mins       █████░░░░░░░░░░░░░░░░░░░░   19.58 % 
+Rust                     2 hrs 51 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.81 % 
+JavaScript               2 hrs 3 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.53 % 
+TypeScript               1 hr 58 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.17 % 
 
 🔥 Editors: 
-VS Code                  20 hrs 40 mins      █████████████████████░░░░   83.42 % 
-Claude Code              4 hrs 6 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.58 % 
+VS Code                  20 hrs 2 mins       █████████████████████░░░░   82.99 % 
+Claude Code              4 hrs 6 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.01 % 
 
 🐱‍💻 Projects: 
-Brevia                   10 hrs 36 mins      ███████████░░░░░░░░░░░░░░   42.79 % 
-zerolovesea.top-2.0      8 hrs 12 mins       ████████░░░░░░░░░░░░░░░░░   33.11 % 
-投资研究                     2 hrs 35 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.48 % 
-s                        1 hr 23 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.61 % 
-RumiiMatch               1 hr 1 min          █░░░░░░░░░░░░░░░░░░░░░░░░   04.14 % 
+Brevia                   9 hrs 36 mins       ██████████░░░░░░░░░░░░░░░   39.79 % 
+zerolovesea.top-2.0      8 hrs 20 mins       █████████░░░░░░░░░░░░░░░░   34.57 % 
+投资研究                     2 hrs 36 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.78 % 
+s                        1 hr 23 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.76 % 
+RumiiMatch               1 hr 1 min          █░░░░░░░░░░░░░░░░░░░░░░░░   04.25 % 
 
 💻 Operating System: 
-Mac                      24 hrs 46 mins      █████████████████████████   100.00 % 
+Mac                      24 hrs 8 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 22 hrs 53 mins (92.38%)
+⏱ AI Coding Time: 22 hrs 15 mins (92.21%)
 
-✍️ 20,352 lines written by AI, 140 lines written by hand (99.32% AI-written)
+✍️ 20,293 lines written by AI, 139 lines written by hand (99.32% AI-written)
 
-🔤 324,158,112 Input Tokens, 1,144,828 Output Tokens
+🔤 289,524,577 Input Tokens, 1,030,454 Output Tokens
 
-💵 $1646.88 Estimated AI Cost This Week
+💵 $1470.28 Estimated AI Cost This Week
 
-🧠 54 AI Sessions, 361 AI Prompts
+🧠 55 AI Sessions, 358 AI Prompts
 
-Opus                     12,466 lines        ███████████████░░░░░░░░░░   59.91 % 
-GPT                      8,342 lines         ██████████░░░░░░░░░░░░░░░   40.09 % 
+Opus                     12,466 lines        ███████████████░░░░░░░░░░   60.21 % 
+GPT                      8,239 lines         ██████████░░░░░░░░░░░░░░░   39.79 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 99.32% of written lines came from AI
-📚 Verbose Prompter — average 2,225 characters per prompt
+📚 Verbose Prompter — average 2,261 characters per prompt
 🔁 Iterative Prompter — average 7 prompts per session
-🚀 High AI Trust — 3.3% of changed lines were hand-edited
+🚀 High AI Trust — 3.31% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
 
 ```text
-Python                   6 repos             ████████░░░░░░░░░░░░░░░░░   33.33 % 
-Jupyter Notebook         6 repos             ████████░░░░░░░░░░░░░░░░░   33.33 % 
-Rust                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.56 % 
-Astro                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.56 % 
-SCSS                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.56 % 
+Python                   6 repos             █████████░░░░░░░░░░░░░░░░   35.29 % 
+Jupyter Notebook         6 repos             █████████░░░░░░░░░░░░░░░░   35.29 % 
+Astro                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
+SCSS                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
+Vue                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
 ```
 
 
 
 
- Last Updated on 29/07/2026 01:02:13 UTC
+ Last Updated on 30/07/2026 00:59:54 UTC
 <!--END_SECTION:waka-->
 
 
