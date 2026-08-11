@@ -20,28 +20,28 @@ I'm an Machine Learning engineer enthusiastic about Recommendation system/Rankin
 * Streamlit
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-825%20hrs%2027%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-836%20hrs%2043%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-329%20hrs%2057%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-341%20hrs%208%20mins-blue?style=flat)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                297 commits         ███████░░░░░░░░░░░░░░░░░░   26.33 % 
-🌆 Daytime                384 commits         █████████░░░░░░░░░░░░░░░░   34.04 % 
-🌃 Evening                363 commits         ████████░░░░░░░░░░░░░░░░░   32.18 % 
-🌙 Night                  84 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.45 % 
+🌞 Morning                304 commits         ███████░░░░░░░░░░░░░░░░░░   26.67 % 
+🌆 Daytime                386 commits         ████████░░░░░░░░░░░░░░░░░   33.86 % 
+🌃 Evening                366 commits         ████████░░░░░░░░░░░░░░░░░   32.11 % 
+🌙 Night                  84 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.37 % 
 ```
 📅 **I'm Most Productive on Saturday** 
 
 ```text
-Monday                   179 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.87 % 
-Tuesday                  160 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.18 % 
-Wednesday                139 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.32 % 
-Thursday                 149 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.21 % 
-Friday                   134 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.88 % 
-Saturday                 208 commits         █████░░░░░░░░░░░░░░░░░░░░   18.44 % 
-Sunday                   159 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.10 % 
+Monday                   184 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.14 % 
+Tuesday                  167 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.65 % 
+Wednesday                139 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.19 % 
+Thursday                 149 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.07 % 
+Friday                   134 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.75 % 
+Saturday                 208 commits         █████░░░░░░░░░░░░░░░░░░░░   18.25 % 
+Sunday                   159 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.95 % 
 ```
 
 
@@ -51,50 +51,50 @@ Sunday                   159 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-JavaScript               26 hrs 13 mins      ████████████░░░░░░░░░░░░░   47.43 % 
-Python                   11 hrs 14 mins      █████░░░░░░░░░░░░░░░░░░░░   20.32 % 
-Markdown                 7 hrs 33 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.68 % 
-JSON                     3 hrs 14 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.85 % 
-CSS                      2 hrs 53 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.22 % 
+JavaScript               26 hrs 29 mins      ████████████░░░░░░░░░░░░░   46.98 % 
+Python                   10 hrs 51 mins      █████░░░░░░░░░░░░░░░░░░░░   19.24 % 
+Markdown                 6 hrs 36 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.73 % 
+JSON                     3 hrs 52 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.87 % 
+HTML                     3 hrs 20 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.94 % 
 
 🔥 Editors: 
-VS Code                  28 hrs 35 mins      █████████████░░░░░░░░░░░░   51.71 % 
-Claude Code              26 hrs 42 mins      ████████████░░░░░░░░░░░░░   48.29 % 
+Claude Code              31 hrs 28 mins      ██████████████░░░░░░░░░░░   55.81 % 
+VS Code                  24 hrs 55 mins      ███████████░░░░░░░░░░░░░░   44.19 % 
 
 🐱‍💻 Projects: 
-Brevia                   50 hrs 58 mins      ███████████████████████░░   92.17 % 
-RumiiMatch               3 hrs 6 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.62 % 
-z                        24 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.74 % 
-DailyCode                15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 % 
+Brevia                   54 hrs 6 mins       ████████████████████████░   95.95 % 
+RumiiMatch               1 hr 26 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.55 % 
+DailyCode                15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 % 
+gifcap                   10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 % 
 jiang                    9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 % 
 
 💻 Operating System: 
-Mac                      55 hrs 18 mins      █████████████████████████   100.00 % 
+Mac                      56 hrs 23 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 52 hrs 19 mins (94.63%)
+⏱ AI Coding Time: 54 hrs 18 mins (96.3%)
 
-✍️ 31,541 lines written by AI, 356 lines written by hand (98.88% AI-written)
+✍️ 42,429 lines written by AI, 338 lines written by hand (99.21% AI-written)
 
-🔤 478,244,020 Input Tokens, 2,494,672 Output Tokens
+🔤 363,121,127 Input Tokens, 2,401,004 Output Tokens
 
-💵 $3776.41 Estimated AI Cost This Week
+💵 $3439.44 Estimated AI Cost This Week
 
-🧠 75 AI Sessions, 621 AI Prompts
+🧠 79 AI Sessions, 630 AI Prompts
 
-Opus                     28,661 lines        █████████████████████░░░░   82.09 % 
-GPT                      5,926 lines         ████░░░░░░░░░░░░░░░░░░░░░   16.97 % 
-Claude                   327 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.94 % 
+Opus                     41,725 lines        ███████████████████████░░   90.33 % 
+GPT                      4,140 lines         ██░░░░░░░░░░░░░░░░░░░░░░░   08.96 % 
+Claude                   327 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.71 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 98.88% of written lines came from AI
-📄 Detailed Prompter — average 1,457 characters per prompt
+🤖 AI-Driven — 99.21% of written lines came from AI
+📚 Verbose Prompter — average 1,728 characters per prompt
 🔁 Iterative Prompter — average 8 prompts per session
-🚀 High AI Trust — 1.1% of changed lines were hand-edited
+🚀 High AI Trust — 0.78% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -110,7 +110,7 @@ SCSS                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 10/08/2026 02:42:12 UTC
+ Last Updated on 11/08/2026 02:36:06 UTC
 <!--END_SECTION:waka-->
 
 
