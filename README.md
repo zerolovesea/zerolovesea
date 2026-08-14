@@ -20,7 +20,7 @@ I'm an Machine Learning engineer enthusiastic about Recommendation system/Rankin
 * Streamlit
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-856%20hrs%2038%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-863%20hrs%2045%20mins-blue?style=flat)
 
 **I'm an Early 🐤** 
 
@@ -49,26 +49,26 @@ Sunday                   159 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-JavaScript               29 hrs 22 mins      ████████████░░░░░░░░░░░░░   46.99 % 
-Python                   10 hrs 43 mins      ████░░░░░░░░░░░░░░░░░░░░░   17.14 % 
-Markdown                 7 hrs 35 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.15 % 
-HTML                     6 hrs 4 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.73 % 
-CSS                      4 hrs 8 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.62 % 
+JavaScript               27 hrs 47 mins      ████████████░░░░░░░░░░░░░   46.57 % 
+Python                   11 hrs 15 mins      █████░░░░░░░░░░░░░░░░░░░░   18.87 % 
+HTML                     6 hrs 12 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.40 % 
+Markdown                 5 hrs 59 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.03 % 
+CSS                      5 hrs 15 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.80 % 
 
 🔥 Editors: 
-Claude Code              32 hrs              █████████████░░░░░░░░░░░░   51.22 % 
-VS Code                  17 hrs 11 mins      ███████░░░░░░░░░░░░░░░░░░   27.51 % 
-Codex Vscode             13 hrs 17 mins      █████░░░░░░░░░░░░░░░░░░░░   21.27 % 
+Claude Code              33 hrs 41 mins      ██████████████░░░░░░░░░░░   56.45 % 
+Codex Vscode             13 hrs 49 mins      ██████░░░░░░░░░░░░░░░░░░░   23.18 % 
+VS Code                  12 hrs 9 mins       █████░░░░░░░░░░░░░░░░░░░░   20.37 % 
 
 🐱‍💻 Projects: 
-Brevia                   60 hrs 59 mins      ████████████████████████░   97.58 % 
-RumiiMatch               44 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.19 % 
-zerolovesea.top-2.0      18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 % 
-gifcap                   10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 % 
-name-wakatime-stats-on-sc8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 % 
+Brevia                   59 hrs 3 mins       █████████████████████████   98.95 % 
+gifcap                   10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 % 
+zerolovesea.top-2.0      10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 % 
+name-wakatime-stats-on-sc8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 % 
+brevia-jsdom             7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 % 
 
 💻 Operating System: 
-Mac                      62 hrs 30 mins      █████████████████████████   100.00 % 
+Mac                      59 hrs 40 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -84,7 +84,7 @@ SCSS                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 13/08/2026 03:08:56 UTC
+ Last Updated on 14/08/2026 03:07:51 UTC
 <!--END_SECTION:waka-->
 
 
