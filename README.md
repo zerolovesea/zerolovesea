@@ -49,26 +49,26 @@ Sunday                   159 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   11 hrs 24 mins      █████████░░░░░░░░░░░░░░░░   36.63 % 
-JavaScript               9 hrs 36 mins       ████████░░░░░░░░░░░░░░░░░   30.81 % 
-Markdown                 2 hrs 42 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.70 % 
-HTML                     2 hrs 31 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.10 % 
-CSS                      2 hrs 30 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.02 % 
+Python                   11 hrs 34 mins      ███████████░░░░░░░░░░░░░░   43.09 % 
+JavaScript               7 hrs 4 mins        ███████░░░░░░░░░░░░░░░░░░   26.33 % 
+CSS                      1 hr 52 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.99 % 
+Markdown                 1 hr 47 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.68 % 
+HTML                     1 hr 42 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.36 % 
 
 🔥 Editors: 
-Codex Vscode             14 hrs 14 mins      ███████████░░░░░░░░░░░░░░   45.72 % 
-Claude Code              9 hrs 20 mins       ████████░░░░░░░░░░░░░░░░░   30.00 % 
-VS Code                  7 hrs 34 mins       ██████░░░░░░░░░░░░░░░░░░░   24.29 % 
+Claude Code              10 hrs 21 mins      ██████████░░░░░░░░░░░░░░░   38.58 % 
+Codex Vscode             8 hrs 33 mins       ████████░░░░░░░░░░░░░░░░░   31.85 % 
+VS Code                  7 hrs 56 mins       ███████░░░░░░░░░░░░░░░░░░   29.58 % 
 
 🐱‍💻 Projects: 
-Brevia                   28 hrs 47 mins      ███████████████████████░░   92.42 % 
-zerolovesea.top-2.0      1 hr 49 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.86 % 
-shiro-inspect            11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 % 
-zyaztec                  9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 % 
-mxcore-inspect           6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 % 
+Brevia                   23 hrs 48 mins      ██████████████████████░░░   88.58 % 
+zerolovesea.top-2.0      2 hrs 2 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.62 % 
+idtank-alg-deal          26 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.66 % 
+shiro-inspect            11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.73 % 
+zyaztec                  9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 % 
 
 💻 Operating System: 
-Mac                      31 hrs 9 mins       █████████████████████████   100.00 % 
+Mac                      26 hrs 52 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -84,7 +84,7 @@ SCSS                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 19/08/2026 02:03:16 UTC
+ Last Updated on 20/08/2026 02:01:33 UTC
 <!--END_SECTION:waka-->
 
 
