@@ -20,26 +20,26 @@ I'm an Machine Learning engineer enthusiastic about Recommendation system/Rankin
 * Streamlit
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-907%20hrs%2037%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-908%20hrs%2054%20mins-blue?style=flat)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                314 commits         ███████░░░░░░░░░░░░░░░░░░   26.61 % 
-🌆 Daytime                402 commits         █████████░░░░░░░░░░░░░░░░   34.07 % 
-🌃 Evening                380 commits         ████████░░░░░░░░░░░░░░░░░   32.20 % 
-🌙 Night                  84 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.12 % 
+🌞 Morning                314 commits         ███████░░░░░░░░░░░░░░░░░░   26.48 % 
+🌆 Daytime                403 commits         ████████░░░░░░░░░░░░░░░░░   33.98 % 
+🌃 Evening                385 commits         ████████░░░░░░░░░░░░░░░░░   32.46 % 
+🌙 Night                  84 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.08 % 
 ```
 📅 **I'm Most Productive on Saturday** 
 
 ```text
-Monday                   181 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.34 % 
-Tuesday                  181 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.34 % 
-Wednesday                150 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.71 % 
-Thursday                 150 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.71 % 
-Friday                   145 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.29 % 
-Saturday                 216 commits         █████░░░░░░░░░░░░░░░░░░░░   18.31 % 
-Sunday                   157 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.31 % 
+Monday                   187 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.77 % 
+Tuesday                  181 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.26 % 
+Wednesday                150 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.65 % 
+Thursday                 150 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.65 % 
+Friday                   145 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.23 % 
+Saturday                 216 commits         █████░░░░░░░░░░░░░░░░░░░░   18.21 % 
+Sunday                   157 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.24 % 
 ```
 
 
@@ -49,26 +49,26 @@ Sunday                   157 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 6 hrs 47 mins       ███████░░░░░░░░░░░░░░░░░░   27.16 % 
-Python                   6 hrs 17 mins       ██████░░░░░░░░░░░░░░░░░░░   25.13 % 
-JavaScript               5 hrs 57 mins       ██████░░░░░░░░░░░░░░░░░░░   23.83 % 
-HTML                     1 hr 40 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.68 % 
-CSS                      1 hr 34 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.28 % 
+Markdown                 7 hrs 32 mins       ██████░░░░░░░░░░░░░░░░░░░   25.16 % 
+JavaScript               7 hrs 14 mins       ██████░░░░░░░░░░░░░░░░░░░   24.14 % 
+Python                   5 hrs 38 mins       █████░░░░░░░░░░░░░░░░░░░░   18.81 % 
+MDX                      3 hrs 19 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.07 % 
+CSS                      1 hr 46 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.91 % 
 
 🔥 Editors: 
-Codex Vscode             10 hrs 39 mins      ███████████░░░░░░░░░░░░░░   42.58 % 
-VS Code                  10 hrs 37 mins      ███████████░░░░░░░░░░░░░░   42.44 % 
-Claude Code              3 hrs 44 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.98 % 
+VS Code                  13 hrs 38 mins      ███████████░░░░░░░░░░░░░░   45.54 % 
+Codex Vscode             12 hrs 47 mins      ███████████░░░░░░░░░░░░░░   42.67 % 
+Claude Code              3 hrs 31 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.78 % 
 
 🐱‍💻 Projects: 
-Brevia                   16 hrs 58 mins      █████████████████░░░░░░░░   67.82 % 
-zerolovesea.top-2.0      6 hrs               ██████░░░░░░░░░░░░░░░░░░░   24.00 % 
-idtank-alg-deal          1 hr 6 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.40 % 
-shiro-inspect            11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.78 % 
-zyaztec                  9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 % 
+Brevia                   17 hrs 52 mins      ███████████████░░░░░░░░░░   59.67 % 
+zerolovesea.top-2.0      10 hrs 12 mins      █████████░░░░░░░░░░░░░░░░   34.05 % 
+idtank-alg-deal          1 hr 6 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.67 % 
+shiro-inspect            11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 % 
+mxcore-inspect           6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 % 
 
 💻 Operating System: 
-Mac                      25 hrs 1 min        █████████████████████████   100.00 % 
+Mac                      29 hrs 58 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -84,7 +84,7 @@ SCSS                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 24/08/2026 02:08:56 UTC
+ Last Updated on 25/08/2026 02:04:01 UTC
 <!--END_SECTION:waka-->
 
 
