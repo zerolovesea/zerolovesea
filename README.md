@@ -20,7 +20,7 @@ I'm an Machine Learning engineer enthusiastic about Recommendation system/Rankin
 * Streamlit
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C026%20hrs%2036%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C033%20hrs%2035%20mins-blue?style=flat)
 
 **I'm an Early 🐤** 
 
@@ -49,26 +49,26 @@ Sunday                   167 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   13 hrs 40 mins      ███████░░░░░░░░░░░░░░░░░░   28.16 % 
-TypeScript               7 hrs 57 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.39 % 
-Other                    5 hrs 57 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.29 % 
-Markdown                 5 hrs 9 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.62 % 
-JavaScript               4 hrs 47 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.87 % 
+Python                   9 hrs 5 mins        █████░░░░░░░░░░░░░░░░░░░░   21.73 % 
+TypeScript               7 hrs 55 mins       █████░░░░░░░░░░░░░░░░░░░░   18.93 % 
+Markdown                 5 hrs 25 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.97 % 
+Other                    5 hrs 19 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.72 % 
+JavaScript               3 hrs 41 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.82 % 
 
 🔥 Editors: 
-Codex Vscode             28 hrs 11 mins      ███████████████░░░░░░░░░░   58.08 % 
-VS Code                  18 hrs 25 mins      █████████░░░░░░░░░░░░░░░░   37.96 % 
-Claude Code              1 hr 55 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.96 % 
+Codex Vscode             29 hrs 4 mins       █████████████████░░░░░░░░   69.47 % 
+VS Code                  11 hrs 16 mins      ███████░░░░░░░░░░░░░░░░░░   26.92 % 
+Claude Code              1 hr 30 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.61 % 
 
 🐱‍💻 Projects: 
-EventAtlas               13 hrs 54 mins      ███████░░░░░░░░░░░░░░░░░░   28.65 % 
-NLU-iflytek              11 hrs 26 mins      ██████░░░░░░░░░░░░░░░░░░░   23.57 % 
-Brevia                   9 hrs 54 mins       █████░░░░░░░░░░░░░░░░░░░░   20.40 % 
-aiboost-daily            7 hrs 19 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.08 % 
-投资研究                     2 hrs 52 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.93 % 
+EventAtlas               13 hrs 54 mins      ████████░░░░░░░░░░░░░░░░░   33.23 % 
+aiboost-daily            10 hrs              ██████░░░░░░░░░░░░░░░░░░░   23.89 % 
+NLU-iflytek              6 hrs 3 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.47 % 
+Brevia                   5 hrs 21 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.80 % 
+投资研究                     2 hrs 52 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.88 % 
 
 💻 Operating System: 
-Mac                      48 hrs 32 mins      █████████████████████████   100.00 % 
+Mac                      41 hrs 51 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -84,7 +84,7 @@ SCSS                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 18/09/2026 05:03:21 UTC
+ Last Updated on 19/09/2026 04:55:04 UTC
 <!--END_SECTION:waka-->
 
 
