@@ -49,26 +49,26 @@ Sunday                   175 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 8 hrs 58 mins       ████████░░░░░░░░░░░░░░░░░   32.09 % 
-Python                   8 hrs 1 min         ███████░░░░░░░░░░░░░░░░░░   28.69 % 
-JavaScript               3 hrs               ███░░░░░░░░░░░░░░░░░░░░░░   10.75 % 
-Other                    2 hrs 43 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.73 % 
-HTML                     2 hrs 18 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.27 % 
+Markdown                 5 hrs 56 mins       ███████░░░░░░░░░░░░░░░░░░   29.27 % 
+Python                   4 hrs 28 mins       ██████░░░░░░░░░░░░░░░░░░░   22.09 % 
+JavaScript               3 hrs               ████░░░░░░░░░░░░░░░░░░░░░   14.82 % 
+Other                    2 hrs 15 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.13 % 
+HTML                     2 hrs 11 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.79 % 
 
 🔥 Editors: 
-Codex Vscode             17 hrs 41 mins      ████████████████░░░░░░░░░   63.25 % 
-VS Code                  9 hrs 5 mins        ████████░░░░░░░░░░░░░░░░░   32.47 % 
-Claude Code              1 hr 11 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.29 % 
+Codex Vscode             14 hrs 45 mins      ██████████████████░░░░░░░   72.72 % 
+VS Code                  4 hrs 31 mins       ██████░░░░░░░░░░░░░░░░░░░   22.29 % 
+Claude Code              1 hr                █░░░░░░░░░░░░░░░░░░░░░░░░   04.99 % 
 
 🐱‍💻 Projects: 
-Featune                  15 hrs 19 mins      ██████████████░░░░░░░░░░░   54.76 % 
-Brevia                   10 hrs 55 mins      ██████████░░░░░░░░░░░░░░░   39.07 % 
-投资研究                     1 hr 35 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.70 % 
-tmp                      4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 % 
-ai-job-search            1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
+Brevia                   10 hrs 55 mins      █████████████░░░░░░░░░░░░   53.87 % 
+Featune                  8 hrs 23 mins       ██████████░░░░░░░░░░░░░░░   41.37 % 
+投资研究                     50 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 % 
+tmp                      4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 % 
+ai-job-search            1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
 
 💻 Operating System: 
-Mac                      27 hrs 58 mins      █████████████████████████   100.00 % 
+Mac                      20 hrs 17 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -84,7 +84,7 @@ SCSS                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 29/09/2026 06:02:26 UTC
+ Last Updated on 30/09/2026 05:51:34 UTC
 <!--END_SECTION:waka-->
 
 
