@@ -25,21 +25,21 @@ I'm an Machine Learning engineer enthusiastic about Recommendation system/Rankin
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                336 commits         ███████░░░░░░░░░░░░░░░░░░   26.09 % 
-🌆 Daytime                439 commits         █████████░░░░░░░░░░░░░░░░   34.08 % 
-🌃 Evening                426 commits         ████████░░░░░░░░░░░░░░░░░   33.07 % 
-🌙 Night                  87 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.75 % 
+🌞 Morning                336 commits         ███████░░░░░░░░░░░░░░░░░░   26.01 % 
+🌆 Daytime                439 commits         ████████░░░░░░░░░░░░░░░░░   33.98 % 
+🌃 Evening                429 commits         ████████░░░░░░░░░░░░░░░░░   33.20 % 
+🌙 Night                  88 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.81 % 
 ```
 📅 **I'm Most Productive on Saturday** 
 
 ```text
-Monday                   211 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.38 % 
-Tuesday                  183 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.21 % 
-Wednesday                163 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.66 % 
-Thursday                 153 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.88 % 
-Friday                   162 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.58 % 
-Saturday                 241 commits         █████░░░░░░░░░░░░░░░░░░░░   18.71 % 
-Sunday                   175 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.59 % 
+Monday                   211 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.33 % 
+Tuesday                  183 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.16 % 
+Wednesday                166 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.85 % 
+Thursday                 154 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.92 % 
+Friday                   162 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.54 % 
+Saturday                 241 commits         █████░░░░░░░░░░░░░░░░░░░░   18.65 % 
+Sunday                   175 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.54 % 
 ```
 
 
@@ -49,26 +49,26 @@ Sunday                   175 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   4 hrs 1 min         ████████░░░░░░░░░░░░░░░░░   31.28 % 
-JavaScript               3 hrs 19 mins       ██████░░░░░░░░░░░░░░░░░░░   25.83 % 
-Other                    2 hrs 13 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.35 % 
-Markdown                 1 hr 53 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.74 % 
-JSON                     50 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.56 % 
+Python                   4 hrs 14 mins       ███████░░░░░░░░░░░░░░░░░░   27.99 % 
+JavaScript               3 hrs 33 mins       ██████░░░░░░░░░░░░░░░░░░░   23.52 % 
+Markdown                 2 hrs 40 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.62 % 
+Other                    2 hrs 23 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.82 % 
+JSON                     54 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.95 % 
 
 🔥 Editors: 
-Codex Vscode             11 hrs 33 mins      ██████████████████████░░░   89.91 % 
-VS Code                  1 hr 16 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.98 % 
-Claude Code              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
+Codex Vscode             12 hrs 33 mins      █████████████████████░░░░   82.91 % 
+VS Code                  2 hrs 34 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.99 % 
+Claude Code              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
 
 🐱‍💻 Projects: 
-Brevia                   11 hrs 9 mins       ██████████████████████░░░   86.73 % 
-zh                       59 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.71 % 
-投资研究                     15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   02.00 % 
-RumiiMatch               11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.47 % 
-https-github-com-eternity8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.04 % 
+Brevia                   13 hrs 26 mins      ██████████████████████░░░   88.73 % 
+zh                       59 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.55 % 
+投资研究                     15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.70 % 
+RumiiMatch               11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.25 % 
+https-github-com-eternity8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.89 % 
 
 💻 Operating System: 
-Mac                      12 hrs 51 mins      █████████████████████████   100.00 % 
+Mac                      15 hrs 8 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -84,7 +84,7 @@ SCSS                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 07/10/2026 06:20:56 UTC
+ Last Updated on 08/10/2026 06:32:28 UTC
 <!--END_SECTION:waka-->
 
 
