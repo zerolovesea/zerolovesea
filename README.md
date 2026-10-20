@@ -20,25 +20,25 @@ I'm an Machine Learning engineer enthusiastic about Recommendation system/Rankin
 * Streamlit
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C135%20hrs%2018%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C141%20hrs%2029%20mins-blue?style=flat)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                603 commits         ██████░░░░░░░░░░░░░░░░░░░   25.43 % 
-🌆 Daytime                823 commits         █████████░░░░░░░░░░░░░░░░   34.71 % 
-🌃 Evening                833 commits         █████████░░░░░░░░░░░░░░░░   35.13 % 
+🌞 Morning                603 commits         ██████░░░░░░░░░░░░░░░░░░░   25.42 % 
+🌆 Daytime                824 commits         █████████░░░░░░░░░░░░░░░░   34.74 % 
+🌃 Evening                833 commits         █████████░░░░░░░░░░░░░░░░   35.12 % 
 🌙 Night                  112 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.72 % 
 ```
 📅 **I'm Most Productive on Saturday** 
 
 ```text
-Monday                   371 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.65 % 
-Tuesday                  276 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.64 % 
+Monday                   371 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.64 % 
+Tuesday                  277 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.68 % 
 Wednesday                305 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.86 % 
-Thursday                 340 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.34 % 
+Thursday                 340 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.33 % 
 Friday                   333 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.04 % 
-Saturday                 433 commits         █████░░░░░░░░░░░░░░░░░░░░   18.26 % 
+Saturday                 433 commits         █████░░░░░░░░░░░░░░░░░░░░   18.25 % 
 Sunday                   313 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.20 % 
 ```
 
@@ -49,25 +49,25 @@ Sunday                   313 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-JavaScript               17 hrs 55 mins      █████████░░░░░░░░░░░░░░░░   34.63 % 
-Markdown                 12 hrs 37 mins      ██████░░░░░░░░░░░░░░░░░░░   24.41 % 
-CSS                      7 hrs 13 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.96 % 
-Python                   4 hrs 6 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.93 % 
-Dart                     2 hrs 27 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.74 % 
+JavaScript               15 hrs 43 mins      █████████░░░░░░░░░░░░░░░░   34.02 % 
+Markdown                 10 hrs 14 mins      ██████░░░░░░░░░░░░░░░░░░░   22.14 % 
+CSS                      6 hrs 46 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.66 % 
+Python                   4 hrs 14 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.16 % 
+HTML                     2 hrs 6 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.57 % 
 
 🔥 Editors: 
-Codex Vscode             41 hrs 27 mins      ████████████████████░░░░░   80.13 % 
-VS Code                  10 hrs 16 mins      █████░░░░░░░░░░░░░░░░░░░░   19.87 % 
+Codex Vscode             37 hrs 22 mins      ████████████████████░░░░░   80.83 % 
+VS Code                  8 hrs 51 mins       █████░░░░░░░░░░░░░░░░░░░░   19.17 % 
 
 🐱‍💻 Projects: 
-Brevia                   47 hrs 22 mins      ███████████████████████░░   91.57 % 
-NLU-iflytek              2 hrs 49 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.45 % 
-an                       22 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.74 % 
-ai_dash_v2               21 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.69 % 
-base-zyaztec-madelixiyuba19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 % 
+Brevia                   40 hrs 43 mins      ██████████████████████░░░   88.11 % 
+NLU-iflytek              3 hrs 49 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.27 % 
+an                       22 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.82 % 
+ai_dash_v2               21 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.77 % 
+base-zyaztec-madelixiyuba19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.70 % 
 
 💻 Operating System: 
-Mac                      51 hrs 43 mins      █████████████████████████   100.00 % 
+Mac                      46 hrs 13 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -83,7 +83,7 @@ SCSS                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 19/10/2026 05:08:12 UTC
+ Last Updated on 20/10/2026 05:10:13 UTC
 <!--END_SECTION:waka-->
 
 
