@@ -49,25 +49,25 @@ Sunday                   242 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   14 hrs 14 mins      █████████████░░░░░░░░░░░░   53.03 % 
-Other                    4 hrs 39 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.32 % 
-Markdown                 2 hrs 54 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.86 % 
-JSON                     1 hr 58 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.34 % 
-JavaScript               1 hr 23 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.17 % 
+Python                   14 hrs 42 mins      █████████████░░░░░░░░░░░░   52.70 % 
+Other                    4 hrs 50 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.32 % 
+Markdown                 2 hrs 46 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.96 % 
+JSON                     1 hr 58 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.06 % 
+JavaScript               1 hr 53 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.80 % 
 
 🔥 Editors: 
-VS Code                  15 hrs 39 mins      ███████████████░░░░░░░░░░   58.29 % 
-Codex Vscode             11 hrs 11 mins      ██████████░░░░░░░░░░░░░░░   41.71 % 
+VS Code                  16 hrs 39 mins      ███████████████░░░░░░░░░░   59.67 % 
+Codex Vscode             11 hrs 15 mins      ██████████░░░░░░░░░░░░░░░   40.33 % 
 
 🐱‍💻 Projects: 
-Orivox                   22 hrs 28 mins      █████████████████████░░░░   83.70 % 
-zerolovesea.top-2.0      1 hr 16 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.76 % 
-Brevia                   49 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.04 % 
-sa                       44 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.74 % 
-NextRec                  32 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.99 % 
+Orivox                   22 hrs 37 mins      ████████████████████░░░░░   81.02 % 
+zerolovesea.top-2.0      1 hr 16 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.58 % 
+metacubex-meta-rules-dat-1 hr 10 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.18 % 
+NextRec                  56 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.38 % 
+sa                       44 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.64 % 
 
 💻 Operating System: 
-Mac                      26 hrs 50 mins      █████████████████████████   100.00 % 
+Mac                      27 hrs 55 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -83,7 +83,7 @@ SCSS                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 31/10/2026 06:09:36 UTC
+ Last Updated on 01/11/2026 06:40:06 UTC
 <!--END_SECTION:waka-->
 
 
