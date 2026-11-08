@@ -20,26 +20,26 @@ I'm an Machine Learning engineer enthusiastic about Recommendation system/Rankin
 * Streamlit
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C203%20hrs%2017%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C225%20hrs%2012%20mins-blue?style=flat)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                490 commits         ██████░░░░░░░░░░░░░░░░░░░   25.31 % 
-🌆 Daytime                657 commits         ████████░░░░░░░░░░░░░░░░░   33.94 % 
-🌃 Evening                688 commits         █████████░░░░░░░░░░░░░░░░   35.54 % 
-🌙 Night                  101 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.22 % 
+🌞 Morning                491 commits         ██████░░░░░░░░░░░░░░░░░░░   25.23 % 
+🌆 Daytime                657 commits         ████████░░░░░░░░░░░░░░░░░   33.76 % 
+🌃 Evening                697 commits         █████████░░░░░░░░░░░░░░░░   35.82 % 
+🌙 Night                  101 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.19 % 
 ```
 📅 **I'm Most Productive on Saturday** 
 
 ```text
-Monday                   296 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.29 % 
-Tuesday                  234 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.09 % 
-Wednesday                245 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.65 % 
-Thursday                 272 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.05 % 
-Friday                   300 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.50 % 
-Saturday                 347 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.92 % 
-Sunday                   242 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
+Monday                   296 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.21 % 
+Tuesday                  234 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.02 % 
+Wednesday                245 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.59 % 
+Thursday                 272 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.98 % 
+Friday                   300 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.42 % 
+Saturday                 356 commits         █████░░░░░░░░░░░░░░░░░░░░   18.29 % 
+Sunday                   243 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.49 % 
 ```
 
 
@@ -49,26 +49,26 @@ Sunday                   242 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-JavaScript               12 hrs 1 min        ████████░░░░░░░░░░░░░░░░░   31.53 % 
-Python                   9 hrs 13 mins       ██████░░░░░░░░░░░░░░░░░░░   24.20 % 
-Markdown                 5 hrs 53 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.44 % 
-Other                    2 hrs 47 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.32 % 
-CSS                      1 hr 43 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.53 % 
+JavaScript               12 hrs 30 mins      ███████░░░░░░░░░░░░░░░░░░   28.16 % 
+Python                   9 hrs 6 mins        █████░░░░░░░░░░░░░░░░░░░░   20.53 % 
+Markdown                 8 hrs 20 mins       █████░░░░░░░░░░░░░░░░░░░░   18.78 % 
+Other                    3 hrs 13 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.25 % 
+Swift                    2 hrs 42 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.08 % 
 
 🔥 Editors: 
-Codex Vscode             25 hrs 16 mins      █████████████████░░░░░░░░   66.26 % 
-VS Code                  12 hrs 50 mins      ████████░░░░░░░░░░░░░░░░░   33.67 % 
-Copilot CLI              1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
+Codex Vscode             28 hrs 47 mins      ████████████████░░░░░░░░░   64.84 % 
+VS Code                  15 hrs 34 mins      █████████░░░░░░░░░░░░░░░░   35.09 % 
+Copilot CLI              1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
 
 🐱‍💻 Projects: 
-Brevia                   21 hrs 52 mins      ██████████████░░░░░░░░░░░   57.36 % 
-Orivox                   7 hrs 25 mins       █████░░░░░░░░░░░░░░░░░░░░   19.47 % 
-ai_dash_v2               4 hrs 54 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.87 % 
-RumiiMatch               1 hr 27 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.84 % 
-metacubex-meta-rules-dat-1 hr 26 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.77 % 
+Brevia                   29 hrs 28 mins      █████████████████░░░░░░░░   66.40 % 
+Orivox                   7 hrs 16 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.38 % 
+ai_dash_v2               4 hrs 54 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.05 % 
+RumiiMatch               1 hr 27 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.30 % 
+metacubex-meta-rules-dat-39 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.48 % 
 
 💻 Operating System: 
-Mac                      38 hrs 8 mins       █████████████████████████   100.00 % 
+Mac                      44 hrs 23 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -84,7 +84,7 @@ SCSS                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 07/11/2026 06:27:37 UTC
+ Last Updated on 08/11/2026 06:34:03 UTC
 <!--END_SECTION:waka-->
 
 
