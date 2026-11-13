@@ -20,26 +20,26 @@ I'm an Machine Learning engineer enthusiastic about Recommendation system/Rankin
 * Streamlit
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C238%20hrs%2035%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C241%20hrs%2024%20mins-blue?style=flat)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                492 commits         ██████░░░░░░░░░░░░░░░░░░░   24.95 % 
-🌆 Daytime                666 commits         ████████░░░░░░░░░░░░░░░░░   33.77 % 
-🌃 Evening                713 commits         █████████░░░░░░░░░░░░░░░░   36.16 % 
-🌙 Night                  101 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.12 % 
+🌞 Morning                571 commits         ██████░░░░░░░░░░░░░░░░░░░   24.26 % 
+🌆 Daytime                792 commits         ████████░░░░░░░░░░░░░░░░░   33.64 % 
+🌃 Evening                883 commits         █████████░░░░░░░░░░░░░░░░   37.51 % 
+🌙 Night                  108 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.59 % 
 ```
 📅 **I'm Most Productive on Saturday** 
 
 ```text
-Monday                   308 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.62 % 
-Tuesday                  237 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.02 % 
-Wednesday                246 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.47 % 
-Thursday                 272 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.79 % 
-Friday                   300 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.21 % 
-Saturday                 356 commits         █████░░░░░░░░░░░░░░░░░░░░   18.05 % 
-Sunday                   253 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.83 % 
+Monday                   358 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.21 % 
+Tuesday                  266 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.30 % 
+Wednesday                286 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.15 % 
+Thursday                 325 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.81 % 
+Friday                   390 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.57 % 
+Saturday                 423 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.97 % 
+Sunday                   306 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.00 % 
 ```
 
 
@@ -49,25 +49,24 @@ Sunday                   253 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-JavaScript               16 hrs 59 mins      █████████░░░░░░░░░░░░░░░░   37.95 % 
-Markdown                 10 hrs 12 mins      ██████░░░░░░░░░░░░░░░░░░░   22.78 % 
-Rust                     2 hrs 48 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.28 % 
-Swift                    2 hrs 42 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.06 % 
-Other                    2 hrs 37 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.85 % 
+JavaScript               16 hrs 36 mins      ██████████░░░░░░░░░░░░░░░   39.42 % 
+Markdown                 9 hrs 27 mins       ██████░░░░░░░░░░░░░░░░░░░   22.46 % 
+Rust                     2 hrs 48 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
+Swift                    2 hrs 42 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.44 % 
+Other                    2 hrs 37 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.21 % 
 
 🔥 Editors: 
-Codex Vscode             25 hrs 13 mins      ██████████████░░░░░░░░░░░   56.35 % 
-VS Code                  19 hrs 32 mins      ███████████░░░░░░░░░░░░░░   43.65 % 
+Codex Vscode             22 hrs 56 mins      ██████████████░░░░░░░░░░░   54.45 % 
+VS Code                  19 hrs 11 mins      ███████████░░░░░░░░░░░░░░   45.55 % 
 
 🐱‍💻 Projects: 
-Brevia                   44 hrs 2 mins       █████████████████████████   98.36 % 
-DailyCode                20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.77 % 
-RumiiMatch               19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.74 % 
-ba                       3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
+Brevia                   41 hrs 27 mins      █████████████████████████   98.39 % 
+DailyCode                20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.82 % 
+RumiiMatch               19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.79 % 
 mlx-audio-swift          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 💻 Operating System: 
-Mac                      44 hrs 46 mins      █████████████████████████   100.00 % 
+Mac                      42 hrs 8 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -83,7 +82,7 @@ SCSS                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 12/11/2026 07:35:10 UTC
+ Last Updated on 13/11/2026 07:06:53 UTC
 <!--END_SECTION:waka-->
 
 
