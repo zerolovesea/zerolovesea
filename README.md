@@ -20,7 +20,7 @@ I'm an Machine Learning engineer enthusiastic about Recommendation system/Rankin
 * Streamlit
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C291%20hrs%2027%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C297%20hrs%2048%20mins-blue?style=flat)
 
 **I'm an Early 🐤** 
 
@@ -49,25 +49,26 @@ Sunday                   268 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-JavaScript               13 hrs 1 min        ███████░░░░░░░░░░░░░░░░░░   28.99 % 
-Python                   8 hrs 44 mins       █████░░░░░░░░░░░░░░░░░░░░   19.45 % 
-Go                       6 hrs 31 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.51 % 
-Other                    6 hrs 13 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.84 % 
-Markdown                 4 hrs 38 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.34 % 
+JavaScript               11 hrs 45 mins      ███████░░░░░░░░░░░░░░░░░░   26.18 % 
+Python                   8 hrs 24 mins       █████░░░░░░░░░░░░░░░░░░░░   18.74 % 
+Go                       6 hrs 56 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.46 % 
+Other                    5 hrs 45 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.81 % 
+CSS                      4 hrs 54 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.93 % 
 
 🔥 Editors: 
-Codex Vscode             33 hrs 4 mins       ██████████████████░░░░░░░   73.57 % 
-VS Code                  11 hrs 52 mins      ███████░░░░░░░░░░░░░░░░░░   26.43 % 
+Codex Vscode             34 hrs 22 mins      ███████████████████░░░░░░   76.57 % 
+VS Code                  10 hrs 9 mins       ██████░░░░░░░░░░░░░░░░░░░   22.61 % 
+Claude Code              22 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.82 % 
 
 🐱‍💻 Projects: 
-ai_dash_v3               30 hrs 2 mins       █████████████████░░░░░░░░   66.83 % 
-Orivox                   6 hrs 27 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.35 % 
-Brevia                   3 hrs 26 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.65 % 
-ai_dash_v2               1 hr 20 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.97 % 
-users-zyaztec-downloads  50 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.88 % 
+ai_dash_v3               33 hrs 41 mins      ███████████████████░░░░░░   75.04 % 
+Orivox                   6 hrs 27 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.37 % 
+Brevia                   1 hr 22 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.07 % 
+users-zyaztec-downloads  50 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.89 % 
+zerolovesea.top-2.0      41 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.55 % 
 
 💻 Operating System: 
-Mac                      44 hrs 56 mins      █████████████████████████   100.00 % 
+Mac                      44 hrs 53 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -83,7 +84,7 @@ SCSS                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 26/11/2026 08:49:33 UTC
+ Last Updated on 27/11/2026 09:01:07 UTC
 <!--END_SECTION:waka-->
 
 
